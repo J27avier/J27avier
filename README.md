@@ -1,4 +1,4 @@
-### Hey 👋
+### Hi there :rocket:
 I'm Javier, an MSc in CS student, focusing on machine learning and optimization for a robust electrical grid.
 Always looking to learn something new.
 
