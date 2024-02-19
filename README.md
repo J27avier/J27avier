@@ -1,8 +1,5 @@
 ### Hi there :rocket:
-I'm Javier, an MSc in CS student, focusing on machine learning and optimization for a robust electrical grid.
-Always looking to learn something new.
 
-### Skills
 #### Programming
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 <img src="img/matlablogo.png" alt="logo" width="90"> 
