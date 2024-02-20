@@ -7,7 +7,7 @@ About Machine Learning, Reinforcement Learning and Optimization for a roboust el
 
 * Side project is `Skaling`, a companion website for practicing scales and other musical exercises :notes:
 
-* :gear: My favorite tech to use:
+* :gear: My favorite tech 
      ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
      ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
      <img src="img/cvxpylogo.png" alt="logo" width="80"> 
