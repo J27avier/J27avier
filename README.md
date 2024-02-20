@@ -5,12 +5,12 @@ I'm currently working on my MSc thesis.
 Check it out at the `EvCharge` and `VPP-Contracts` repos below :eyes:
 About Machine Learning, Reinforcement Learning and Optimization for a roboust electrical grid.
 
-* Side project is `SKaling`, a companion app for practicing scales and other musical exercises :notes:
+* Side project is `SKaling`, a companion website for practicing scales and other musical exercises :notes:
 
-* :gear: My favorite tech to use
-    * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-    * ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-    * <img src="img/cvxpylogo.png" alt="logo" width="90"> 
+* :gear: My favorite tech to use:
+     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+     ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+     <img src="img/cvxpylogo.png" alt="logo" width="80"> 
 
  
 
